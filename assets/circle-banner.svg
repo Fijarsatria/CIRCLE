@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">CIRCLE — Saling jaga, tetap terhubung</title><desc id="desc">Identitas ungu CIRCLE dengan ilustrasi peta, anggota circle, dan kontrol berbagi secara sukarela.</desc>
+<defs><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ddd6f5" stroke-width="1"/></pattern></defs>
+<rect width="1280" height="400" rx="28" fill="#f4f0ff"/><rect x="760" width="520" height="400" fill="url(#grid)"/>
+<g font-family="Segoe UI,Arial,sans-serif"><circle cx="86" cy="78" r="27" fill="#6552d9"/><path d="M72 88L86 66L100 88" fill="none" stroke="white" stroke-width="3"/><g fill="white"><circle cx="72" cy="88" r="5"/><circle cx="86" cy="66" r="5"/><circle cx="100" cy="88" r="5"/></g>
+<text x="128" y="89" font-size="38" font-weight="700" fill="#1a1c1b">circle<tspan fill="#6552d9">.</tspan></text>
+<text x="58" y="176" font-size="49" font-weight="700" letter-spacing="-1.5" fill="#1a1c1b">Saling jaga.</text><text x="58" y="234" font-size="49" font-weight="700" letter-spacing="-1.5" fill="#6552d9">Tetap terhubung.</text>
+<text x="60" y="280" font-size="19" fill="#5e5d69">Peta, kabar, dan orang terdekat. Kendali ada di kamu.</text>
+<rect x="60" y="319" width="136" height="32" rx="16" fill="white"/><text x="79" y="341" font-size="13" font-weight="600" fill="#4c36bf">MOBILE FIRST</text><rect x="208" y="319" width="205" height="32" rx="16" fill="white"/><text x="226" y="341" font-size="13" font-weight="600" fill="#4c36bf">BERBAGI DENGAN IZIN</text>
+<path d="M790 0L900 150L820 400M1280 50L1060 180L1120 400" stroke="white" stroke-width="24" fill="none"/><path d="M760 290L1280 190" stroke="#ddd6f5" stroke-width="16"/>
+<circle cx="1020" cy="184" r="115" fill="#6552d9" opacity=".08"/><path d="M898 119Q1010 70 1105 229L976 276Z" fill="none" stroke="#9989e6" stroke-width="3" stroke-dasharray="7 8"/>
+<g fill="#6552d9" stroke="white" stroke-width="6"><circle cx="898" cy="119" r="28"/><circle cx="1105" cy="229" r="28"/><circle cx="976" cy="276" r="28"/></g><g fill="white" font-size="18" font-weight="700" text-anchor="middle"><text x="898" y="125">A</text><text x="1105" y="235">B</text><text x="976" y="282">C</text></g>
+<rect x="862" y="24" width="345" height="49" rx="17" fill="white"/><circle cx="887" cy="49" r="6" fill="#6552d9"/><text x="907" y="55" font-size="16" font-weight="600" fill="#1a1c1b">Circle orang terdekatmu</text>
+<rect x="844" y="322" width="364" height="49" rx="17" fill="white"/><text x="868" y="353" font-size="15" font-weight="600" fill="#4c36bf">Bagikan lokasi</text><path d="M1010 334V359" stroke="#e2dfeb"/><text x="1031" y="353" font-size="15" fill="#5e5d69">Jeda</text><text x="1124" y="353" font-size="15" fill="#ba1a1a">Stop</text></g></svg>

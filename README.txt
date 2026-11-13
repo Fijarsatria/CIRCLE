@@ -7,12 +7,8 @@ CARA MENJALANKAN
 3. Tekan Ctrl+C di jendela layanan untuk menghentikan aplikasi.
 Data tersimpan otomatis. Tidak perlu Composer, npm, build, atau membuat database manual.
 
-AKUN CONTOH
-User : fijar@circle.test / Circle123!
-Teman: azizah@circle.test / Circle123!
-Admin: admin@circle.test / Circle123!
-Kata sandi di atas hanya untuk demonstrasi lokal. Akun lama yang sudah ada tetap dipakai.
-Tamu langsung membuka peta momen publik; Circle dan Akun memerlukan login.
+AKSES APLIKASI
+Tamu dapat membuka peta momen publik. Circle dan Akun memerlukan login.
 
 SUSUNAN FOLDER
 circle - simple/
