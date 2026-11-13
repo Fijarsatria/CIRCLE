@@ -1,0 +1,24 @@
+# Kredensial dan pengaturan lokal
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Database berisi akun, konten, dan lokasi pengguna; skema.sql tetap dilacak.
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+data/
+
+# Foto privat tetap lokal. Pelindung folder tetap masuk repository.
+uploads/*
+!uploads/.htaccess
+
+# File sementara dan cadangan
+*.log
+*.bak
+*.zip
+Thumbs.db
+.DS_Store

@@ -1,0 +1,2 @@
+# Berkas dalam folder ini hanya dibaca melalui index.php/backend, bukan URL langsung.
+Require all denied

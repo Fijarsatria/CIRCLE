@@ -1,0 +1,10 @@
+# Perlindungan Apache. MULAI.cmd memakai daftar izin pada index.php.
+Options -Indexes
+<FilesMatch "^(README\.txt|MULAI\.cmd|\.env.*|.*\.(sqlite|db|bak|log|sql))$">
+    Require all denied
+</FilesMatch>
+RewriteEngine On
+RewriteRule ^assets/(style\.css|script\.js)$ - [END]
+RewriteRule ^(frontend|backend|database|uploads|data)(/|$) - [F,END]
+RewriteRule ^(index\.php|login\.php|admin\.php|backend\.php|lokasi\.php)?$ index.php [END,QSA]
+RewriteRule ^ - [R=404,END]
